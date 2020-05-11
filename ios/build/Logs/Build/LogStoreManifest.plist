@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>291F8A6D-0876-4B6E-BB54-04CB19657E7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>291F8A6D-0876-4B6E-BB54-04CB19657E7E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>midoone_m project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>midoone_m</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project midoone_m with scheme midoone_m and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561289553.81351399</real>
+			<key>timeStoppedRecording</key>
+			<real>561289558.61303496</real>
+			<key>title</key>
+			<string>Building project midoone_m with scheme midoone_m and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>291F8A6D-0876-4B6E-BB54-04CB19657E7E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
